@@ -23,6 +23,14 @@ String methods: Using methods such as strip(), upper(), startswith() and count()
 Lists: Storing invalid characters found in a sequence.
 Basic calculations: Calculating sequence length and GC percentage.
 
+The concepts used in this project were explored through introductory bioinformatics learning materials and documentation.
+
+NCBI – FASTA Format for Nucleotide Sequences – Understanding the structure of FASTA files and sequence identifiers.
+
+UC San Diego – Biology Meets Programming: Bioinformatics for Beginners – Introductory bioinformatics concepts and sequence analysis.
+
+Python Documentation – Reference for Python syntax and built-in functions.
+
 ## Features
 - Reads multiple DNA sequences from a FASTA file
 - Calculates sequence length
