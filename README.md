@@ -2,7 +2,7 @@
 A Python project to analyse DNA sequences in FASTA format
 
 ## About
-This is a beginner Python project developed to
+This is a Python project developed to
 practise basic bioinformatics and DNA sequence
 analysis. 
 
