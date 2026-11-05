@@ -1,6 +1,5 @@
 # DNA FASTA sequence analyzer
 A Python project to analyse DNA sequences in FASTA format
-# DNA FASTA Sequence Analyser
 
 ## About
 This is a beginner Python project developed to
